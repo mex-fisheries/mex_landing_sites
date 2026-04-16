@@ -1,5 +1,7 @@
 # A Geospatial Dataset of Landing Sites in Mexico
 
+[![DOI](https://zenodo.org/badge/1113160684.svg)](https://doi.org/10.5281/zenodo.19608740)
+
 ## About
 The raw data come from Rodríguez et al. (2004). These data report fish landing sites in Baja California, Baja California Sur, and Sonora for sites identified by name, CONAPESCA site code, and geographic coordinate. The data were manually 
 extracted by region from pdf to Excel, and a comprehensive geopackage is created in this repository in connecting the CONAPESCA site code to the geographic coordinate by a document specific landing site key.
